@@ -20,7 +20,7 @@
 * Clone the project to your local machine using
 
 ```
-git clone https://github.com/RobertoCtz/adapter-with-scala.git
+git clone https://github.com/RobertoCtz/OOP-Exercise.git
 ```
 
 Go to the project directory and run the scala project with
@@ -28,4 +28,11 @@ Go to the project directory and run the scala project with
 ```
 sbt run
 ```
+
+
+
+## What is this?
+The requeriments for this project were to create a public function that returns a Fibonacci serie of 10 numbers and to calculate this value using a private function.
+Then, we created a second clculator class with an add and subtract method.
+And at the end, we overrided our original public function to return 20 instead of 10 numbers of the fibonacci serie.
 
